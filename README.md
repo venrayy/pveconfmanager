@@ -1,7 +1,7 @@
 
 Proxmox .conf Manager
 
-a simple little script made with chatgpt to easily copy proxmox .conf(urations) to different VM's or LXC's 
+a stupid simple vibe coded little script to easily copy proxmox .conf(urations) to different VM's or LXC's 
 
 Features:
 
